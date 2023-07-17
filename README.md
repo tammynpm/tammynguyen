@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tammynguyen29
 - 👀 I’m interested in Mathematics, building mathematical models
-- 🌱 I’m currently learning coding (Python)
+- 🌱 I’m currently learning to code (Python)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
