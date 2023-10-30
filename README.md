@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tammy
 - 👀 I’m a productivity geek even though I often don't take my own advice.
-- 🌱 I am learning Object Oriented Programming and Data Structures and have taken the course Foundations of Programming at UMass Amherst.
+- 👻 I'm taking MacroEconomics now to have more diverse knowledge
+- 🌱 I'm learning Object-oriented programming and Data Structures and have taken the course Foundations of Programming at UMass Amherst.
 - 
 
 <!---
